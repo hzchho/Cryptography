@@ -1,4 +1,4 @@
-# cryptography
+# Cryptography
 2022级中山大学计算机学院密码学实验,包括以下内容：<br>
 1.维吉尼亚密码;<br>
 2.仿射希尔密码;<br>
